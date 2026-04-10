@@ -25,11 +25,11 @@ config = {
         "transport": "http"
     },
     
-    "fetch": {
-        "transport": "stdio",
-        "command": "uvx",
-        "args": ["mcp-server-fetch"],
-    },
+    # "fetch": {
+    #     "transport": "stdio",
+    #     "command": "uvx",
+    #     "args": ["mcp-server-fetch"],
+    # },
     
     "time": {
       "command": "python",
@@ -38,4 +38,4 @@ config = {
     }
     
 }
-  
+   
