@@ -16,6 +16,9 @@
         "research": {
             "url": "http://localhost:8001/sse"
         },
+        "internet_search": {
+            "url": "http://localhost:8002/mcp"
+        },
         "fetch": {
             "command": "uvx",
             "args": ["mcp-server-fetch"]
