@@ -1,5 +1,3 @@
-# MCP with LangChain
-
 <h1 align="center">
   
   <br>
